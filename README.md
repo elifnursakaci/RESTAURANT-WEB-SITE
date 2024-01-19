@@ -1,4 +1,4 @@
-# restaurant-web-site
+# Restaurant Website - Homepage
 
 <img src="rest1.gif">
 
